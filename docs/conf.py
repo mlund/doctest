@@ -24,7 +24,7 @@ author = 'Mikael Lund'
 # The full version, including alpha/beta/rc tags
 release = 'v2.2.0'
 
-master_doc = 'index.md'
+master_doc = 'index'
 
 
 # -- General configuration ---------------------------------------------------
