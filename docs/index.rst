@@ -10,6 +10,9 @@ Welcome to mkdoctest's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   energy
+   topology
+
 
 
 Indices and tables

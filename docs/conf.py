@@ -24,7 +24,7 @@ author = 'Mikael Lund'
 # The full version, including alpha/beta/rc tags
 #release = 'v2.2.0'
 
-source_suffix = '.md'
+source_suffix = {'.rst': 'restructuredtext', '.md': 'markdown'}
 master_doc = 'index'
 
 
