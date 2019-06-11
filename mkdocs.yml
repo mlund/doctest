@@ -1,0 +1,7 @@
+site_name: faunus
+repo_url: https://github.com/mlund/doctest
+docs_dir: docs/
+
+pages:
+    - Introduction: 'intro.md'
+
