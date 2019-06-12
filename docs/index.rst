@@ -7,8 +7,7 @@ Welcome to mkdoctest's documentation!
 =====================================
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Contents:
+   :maxdepth: 2
 
    energy
    topology
